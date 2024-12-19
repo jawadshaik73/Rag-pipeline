@@ -1,5 +1,5 @@
 !pip install requests PyMuPDF sentence-transformers faiss-cpu transformers torch
-import fitz  # PyMuPDF
+import fitz 
 from sentence_transformers import SentenceTransformer
 import faiss
 import numpy as np
